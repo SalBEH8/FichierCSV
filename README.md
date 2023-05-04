@@ -9,4 +9,9 @@ https://elements.getpostman.com/redirect?entityId=20505660-25deb495-13b6-4d3d-b8
 Pour le fichier CSV que vous trouverez en PJ.
 
 
+Bien sur pour que le tout fonctionne dans votre machine.
+
+Merci de crée un log avec mail et password.
+
+
 
