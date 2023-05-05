@@ -4,7 +4,7 @@ Ici vous trouverez le lien API postman :
 
 Aller dans la quest201
 
-https://elements.getpostman.com/redirect?entityId=20505660-25deb495-13b6-4d3d-b84f-6afd0be6a798&entityType=collection
+https://www.postman.com/bold-resonance-722327/workspace/wild/collection/20505660-bab51a35-1df1-4a0a-a4f9-3abfb00dcb1b?action=share&creator=20505660
 
 Pour le fichier CSV que vous trouverez en PJ.
 
